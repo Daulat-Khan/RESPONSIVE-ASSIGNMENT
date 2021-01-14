@@ -1,3 +1,5 @@
+
+
 /* navbar part start */
 nav .navbar-brand img{
     width: 350px;
@@ -61,7 +63,12 @@ nav .navbar-brand img{
     width:100%;
 }
 
-
+/* cart start */
+.jacket-card-footer{
+    border: none;
+    background-color:white;
+}
+/* cart end */
 
 /* footer part start */
 
